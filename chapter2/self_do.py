@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 16 01:58:50 2017
 
-@author: DH
+@author: 
 """
 import os
 os.chdir('os.chdir(u"F://coding//machine learn note//note-for-machine-learning//chapter2")')
